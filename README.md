@@ -3,7 +3,7 @@
 ⚠️ This is a TLD Community Mod, which may or may not be maintained in the future. ⚠️ 
 
 
-<img src="https://github.com/moosemeat817/ModListJson/blob/main/wolfscarf.png" width="80%">
+<img src="https://github.com/TLD-Mods/Modlist_Images/master/wolfscarf.png" width="80%">
 
 A new fluffy scarf made from the fur of your worst enemies!
 
